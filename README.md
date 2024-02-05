@@ -1,2 +1,2 @@
-# robotMascot
-A simple arduino robot made for my robotics club lol
+# robotMascot 🌼
+Simple robot made in arduino yippee
